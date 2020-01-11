@@ -1,4 +1,5 @@
 <?php
+include_once 'config.php';
 include_once 'functions/recGlob.php';
 include_once 'functions/getColorForClass.php';
 include_once 'functions/filterBackups.php';
