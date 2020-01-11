@@ -1,0 +1,136 @@
+Sharp Claws,"Swordsman, Thief",15 Damage.
+Blackpowder Musket,Archer,22 Damage.
+Crystal Wand,"Initiate, Druid, Acolyte","10 Damage, 15 Int."
+Elderwood Bow,Archer,"15 Damage, 6 Agi."
+Moon Armor,All except Initiate,11 Armor.
+Superior Wand,"Initiate, Druid, Acolyte","6 Damage, 200 Mana."
+Frostfang ,"Swordsman, Thief, Witch Hunter",40 Damage
+Frost Shield,Swordsman,20 Armor.
+Psi Blade,Templar,45 Damage.
+Reinforced Armor,"Swordsman, Templar, Witch Hunter",18 Armor.
+Stitches' Dagger,"Swordsman, Thief",35 Damage.
+Stitches' Totem,"Initiate, Druid, Acolyte",23 Armor.
+Aiur's Legacy,Templar,80 Damage.
+BlackGrave Wand,"Initiate, Druid, Acolyte",45 Int.
+Skull Staff,"Initiate, Druid, Acolyte","500 MP, 10 MP Regen."
+Stitches' Legacy,All,"50 Damage, 10 Armor."
+Belt of Endurance,Swordsman,20 Str.
+Boots of the Eagle,All,18 Agi.
+Bracer of the Bear,All,"2 Armor, 10 Str, 300 HP."
+Firebrand,All,"20 Armor, 15 All Stats."
+Helmet of Valor,"Swordsman, Templar, Witch Hunter",20 All Stats.
+Soul Wand,"Initiate, Druid, Acolyte","55 Int, 15 MP Regen."
+VanCliffe's Armor,Swordsman,28 Armor.
+Blood Diamond,All,40 All Stats.
+Celestial Orb,All,"15 All Stats, 5 HP Regen"
+Enchanted Axe,Swordsman,50 Damage.
+Cunning Edge,"Swordsman, Thief, Witch Hunter",60 Damage.
+Long Rifle,Archer,65 Damage.
+Shield of the Avenger,Swordsman,40 Armor
+Warchief's Pride,Swordsman,76 Damage
+Mythpowder Rifle,Archer,"90 Damage, 30 Agi."
+Sword of Blessed Flame,"Swordsman, Thief",100 Damage.
+Boots of Speed,All,"5 All Stats, 30 MS."
+Arcane Staff,"Initiate, Druid, Acolyte","80 Int, 5 MP Regen."
+Psionic Cuirass,Templar,"20 Armor, 400 MP."
+Ring of Melitele,All,"30 Int, 20 HP Regen."
+Scroll of the Lich,"Initiate, Druid, Acolyte",95 Int.
+Sniper Rifle,Archer,80 Damage.
+Chillrend,"Swordsman, Thief, Witch Hunter",120 Damage.
+Dusk's Legacy,"Initiate, Druid, Acolyte","100 Int, 15 MP Regen."
+Death Reaver,Swordsman,"140 Damage, 50 Str."
+Ghost Armor,"Swordsman, Templar, Witch Hunter","40 Armor, 1,500 HP."
+Guardian Naga,"Initiate, Acolyte, Druid","115 Int, 1,500 HP."
+Homunculus,"Initiate, Acolyte, Druid","100 Int, 1,200 MP, 5 MP Regen."
+Synergy Blade,Templar,180 Damage.
+Azurewrath,"Swordsman, Thief, Witch Hunter",180 Damage.30% chance to deal 2x damage.Frost Attack.
+Frostbrand,"Swordsman, Thief, Witch Hunter",300 Damage.Frost Attack.
+The Spirit Shroud,All,"70 Armor, 15 All Stats, 15% Spell Resist."
+Golden Arrows,Archer,"230 Damage, 30 Agi."
+Necklace of Seven Souls,"Initiate, Acolyte, Druid",300 Int.
+Stone of Vsmir,Templar,"100 Damage, 100 All Stats, 5 MP Regen."
+Hexfire's Edge,"Swordsman, Thief, Witch Hunter","300 Damage, 15% AS.35% chance to deal 2.5x damage."
+Icecrown's Visage,"Swordsman, Thief, Witch Hunter","80 Armor, 100 All Stats."
+Phoenix's Stone,All,140 All Stats.
+Shield of Unending Flame,"Swordsman, Thief, Witch Hunter","80 Armor, 25% Spell Resist."
+Staff of the Ages,"Initiate, Acolyte, Druid",400 Int.
+Atma's Defence,All,"40 Armor, 100 All Stats, 20% Spell Resist."
+Battle Gauntlets,All except Initiate,"300 Damage, 40 Armor."
+Infernostride,All,"70 Armor, 60 All Stats, 70 MS."
+Lam Esen's Tome,"Initiate, Acolyte, Druid","3,000 HP, 3,000 MP, 15 MP Regen."
+The Pendant of Nagre,"Initiate, Acolyte, Druid","400 Int, 1,200 MP, 50 HP Regen."
+Double-barrel Rifle,Archer,700 Damage.
+The Heart of Evo,All,"9,500 HP, 3,000 MP."
+The Psionic Razor,Templar,"800 Damage, 10% AS."
+Duriel's Shell,All,200 Armor.
+Megaton Blades,"Thief, Witch Hunter","1,000 Damage.50% chance to deal 3x damage."
+Tome of the Unlife,"Initiate, Acolyte, Druid",500 Int.
+Zakarum's Hand,"Initiate, Acolyte, Druid","300 Int, 5,000 MP, 15% Spell Resist."
+Angel's Sanctuary,"Swordsman, Templar, Witch Hunter",230 Armor.
+Athena's Aim,Archer,"1,400 Damage."
+Dawn's Legacy,All,"60 Armor, 30% AS, 100 MS.CTU: Teleport to any Inn/Campfire except the one in Unknown Regions.10sec CD."
+Titan's Aegis,Swordsman,400 Armor.
+Guardian Angel,"Initiate, Templar, Acolyte, Druid","200 Armor, 30% Spell Resist."
+Eagle Eye,"Archer, Thief, Witch Hunter","2,400 Damage, 30% AS, 20% Evasion."
+Hand of Blessed Light,"Initiate, Templar, Acolyte, Druid","800 Int, 50 MP Regen."
+The Ark Royal,"Swordsman, Thief, Templar,Witch Hunter, RuneMaster","1,800 Damage, 120 Armor, 140 All Stats, 3,000 HP."
+The Stone of Jordan,All,400 All Stats.
+Atalanta's Speed,"Archer, Thief, Witch Hunter","3,000 Damage, 800 Agi, 60% AS, 20% Evasion."
+Atlantean's Frozen Heart,"Initiate,Templar, Acolyte, Druid","1,000 Int, 6,000 MP, 75 MP Regen."
+Black Hades,"Swordsman, Thief, Witch Hunter,RuneMaster","260 Armor, 100 All Stats, 20% Spell Resist."
+Neptune's Eye,All,"20,000 HP, 15,000 MP."
+Raven's Insight,All,"300 All Stats, 50% AS, 120 MS.CTU: Teleport to any Inn/Campfire, Lvl.200 to teleport to Unknown Regions.10sec CD."
+The Grandfather,Swordsman,"2,500 Damage, 400 Armor, 60% AS."
+The Patriarch,"Swordsman, Thief, Templar, Witch Hunter, RuneMaster","1,600 Damage.40% chance to deal 3.5x damage."
+Atalanta's Revenge,"Archer, Thief, Witch Hunter","4,500 Damage, 1,200 Agi.CTU: Increase AS by 200%, damage taken by 25% for 6 seconds. 15sec CD."
+Blaze's Touch,"Swordsman, Templar","4,000 Damage, 50% AS, 20% Cleave(Stacks with other Blaze's Touch)."
+Chaos Grief,"Thief, Witch Hunter","1,000 Agi, 80% AS.40% chance to deal 4.2x damage."
+Hannah's Legend,"Initiate,Templar, Acolyte, Druid","2,000 Int, 20,000 MP, 35% Spell Resist.Passive: Spell Shield that blocks a spell. 60sec CD."
+Hellforge Plate,"Swordsman, Thief, Templar, Witch Hunter, RuneMaster","1,000 Damage, 400 Armor, 600 Str, 600 Agi, 400 Int."
+Megaera's Edge,"Swordsman, Templar, Witch Hunter,RuneMaster","4,000 Damage.Passive: 30% chance to deal 12,000 damage over 3 seconds."
+Wrath of the Lich King,Swordsman,"560 Armor, 60 HP Regen."
+Inspirit,All,"1,000 All Stats, 0.05% HP Regen, 0.05% MP Regen, 30% Spell Resist.Passive1: Deals 2x Main Stats Damage in an AOE after 10 attacks/spells.Passive2: -30 Armor to nearby enemies ."
+Faith,Archer,"6,000 Damage, 1,500 Agi, 120% AS, 180% Enhanced Damage."
+Fate,Templar,"10,000 Damage, 1,200 Agi, 2,000 Int, 180% Enhanced Damage.Passive1: 25% chance to deal 20,000 damage to a target.Passive2: 30% chance to deal 25,000 damage in a line."
+Hope,Acolyte,"4,000 Int, 200 MP Regen.Passive1: 20% chance to heal 30% HP of all allies within 600 AOE after casting a spell.Passive2: 10% chance to give 100% physical & magic reduction to all allies within 600 AOE for 5 seconds after casting a spell."
+Raising Heart,Initiate,"4,000 Int.Passive1: 70% chance to deal 25,000 in a line after casting an offesive spell.Passive 2: 40% chance to deal 5xInt Universal damage in a huge line after casting an offesive spell. 2 seconds casting time."
+Reinforce,Druid,"1,200 Str, 1,200 Agi, 3,000 Int.Passive1: 35% chance to deal 18,000 in a line. Limited to one proc per second.Passive2: 50% chance to deal 4xInt Universal damage in a line after casting an offesive spell. 2 seconds casting time."
+Rune Sihill,Witch Hunter,"6,300 Damage, 1200 Agi, 200 AS.Passive: Breaks 5,000 MP per hit and deals the same amount as damage."
+Tooth of Belial,Thief,"6,000 Damage, 1,200 Agi, 180% Enhanced Damage, 20% Evasion."
+Whirlwind,Swordsman,"6,000 Damage, 750 Str, 150% AS.Passive: 20% chance to deal 3xStr in an AOE. Limited to one proc per second.CTU: Increase 10,000 Damage, 1,500 Armor, 100% Spell Resist for 10 seconds. 60sec CD."
+Minor Potion of Healing,All,Restores 250 HP.
+Potion of Health,All,Restores 500 HP.
+Potion of Restoration,All,"Restores 1,000 HP."
+Potion of Super Restoration,All,"Restores 5,000 HP."
+Minor Potion of Mana,All,Restores 200 MP.
+Greater Potion of Mana,All,Restores 400 MP.
+Clarity Potion,All,Restores 800 MP.
+Super Clarity Potion,All,"Restores 4,000 MP."
+Life Essence,All,Restores 20% HP.
+Mana Essence,All,Restores 20% MP.
+Scroll of Teleportation,All,"Teleports to a Inn or Campfire.Does not work in Dungeons, Rite of Passage, or during PvP."
+Sharpened Glaive,Archer,30 Damage.
+Slicer,"Swordsman, Thief, Witch Hunter",40 Damage.
+Dull Warp Blade,Templar,16 Damage.
+Fine Sword,"Swordsman, Thief",10 Damage.
+Staff,"Initiate, Druid, Acolyte",6 Damage.
+Claws of Striking,"Swordsman, Thief, Witch Hunter",64 Damage.
+Elder Rod,"Initiate, Druid, Acolyte","200 MP, 5 MP Regen."
+Stout Shield,All,2 Armor.
+Worn Gauntlet,"Swordsman, Thief, Witch Hunter",4 Armor.
+Circlet,All,"4 Armor, 200 HP, 200 MP."
+Lucky Amulet,All,150 HP.
+Leather Armor,All,2 Armor.
+Plated Shield,Swordsman,3 Armor.
+Elven Armor,All,10 Armor.
+Arcane Amulet,"Initiate, Druid, Acolyte","15 INT, 250 MP, 5 MP Regen."
+Superior Vizima Gauntlets,"Swordsman, Templar, Witch Hunter","30 Damage, 20 Armor."
+Bethrezen's Flame,"Initiate, Druid, Acolyte","500 Int, 40 to All Stats, 25 MP Regen.CTU: Deals 25000 damage to single target, stuns for 2 seconds. 8sec CD."
+Hades' Shield,All,"160 Armor, 120 All Stats."
+Feral Totem,"Shapshifter, Runemaster","1,000 Damage, 55 Int, 30% AS."
+Tome of Awakening,"High Templar, Grand Templar","300 INT, 3,000 MP, 30 MP Regen."
+Psionic Stone,Templar,"1,400 Damage, 20% Attack Speed, 30% Spell Resist."
+Hand of God,"Swordsman, Templar, Witch Hunter","1,000 Damage, 60 Armor, 50% AS."
+Horadric Staff,"Initiate, Druid, Acolyte","400 INT, 30 MP Regen."
+The Excecutioner,Swordsman,"1,000 Damage, 120 Str.40% chance to deal 3x damage."
+Windforce,Archer,"900 Damage, 20% Attack Speed, 50% Enhanced Damage."
