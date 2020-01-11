@@ -263,7 +263,7 @@ foreach ($data as $k => $d) {
         <td class="<?= getColorForClass($data, 'Avenger') ?>">Avenger</td>
         <td class="<?= getColorForClass($data, 'Champion') ?>">Champion</td>
         <td class="<?= getColorForClass($data, 'White Wizard') ?>">White Wizard</td>
-        <td class="<?= getColorForClass($data, 'Arch Sage') ?>">Arch Sage</td>
+        <td class="<?= getColorForClass($data, 'ArchSage') ?>">ArchSage</td>
         <td class="<?= getColorForClass($data, 'Phantom Assassin') ?>">Phantom Assassin</td>
         <td class="<?= getColorForClass($data, 'Master Stalker') ?>">Master Stalker</td>
         <td class="<?= getColorForClass($data, 'Professional Witcher') ?>">Professional Witcher</td>
