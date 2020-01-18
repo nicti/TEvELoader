@@ -227,13 +227,6 @@ foreach ($data as $k => $d) {
     });
 }
 ?>
-<!--<table style="margin-bottom: 10px;">
-    <tr>
-        <td class="red reset-cursor">no code</td>
-        <td class="green reset-cursor">code</td>
-        <td class="gold reset-cursor">lvl 300</td>
-    </tr>
-</table>-->
 <div class="container-fluid">
     <div class="row">
         <div class="col-12">
@@ -267,7 +260,8 @@ foreach ($data as $k => $d) {
                 <tr>
                     <td colspan="2" class="<?= getColorForClass($data, 'Knight') ?>">
                         Knight<?= getBadgeForClass($data, 'Knight') ?></td>
-                    <td colspan="2" class="<?= getColorForClass($data, 'Mage') ?>">Mage<?= getBadgeForClass($data, 'Mage') ?></td>
+                    <td colspan="2" class="<?= getColorForClass($data, 'Mage') ?>">
+                        Mage<?= getBadgeForClass($data, 'Mage') ?></td>
                     <td colspan="2" class="<?= getColorForClass($data, 'Rogue') ?>">
                         Rogue<?= getBadgeForClass($data, 'Rogue') ?></td>
                     <td colspan="2" class="<?= getColorForClass($data, 'Slayer') ?>">
@@ -284,35 +278,47 @@ foreach ($data as $k => $d) {
                         ArchTemplar<?= getBadgeForClass($data, 'ArchTemplar') ?></td>
                 </tr>
                 <tr>
-                    <td class="<?= getColorForClass($data, 'Crusader') ?>">Crusader<?= getBadgeForClass($data, 'Crusader') ?></td>
+                    <td class="<?= getColorForClass($data, 'Crusader') ?>">
+                        Crusader<?= getBadgeForClass($data, 'Crusader') ?></td>
                     <td class="<?= getColorForClass($data, 'Imperial Knight') ?>">Imperial
                         Knight<?= getBadgeForClass($data, 'Imperial Knight') ?></td>
-                    <td class="<?= getColorForClass($data, 'Wizard') ?>">Wizard<?= getBadgeForClass($data, 'Wizard') ?></td>
+                    <td class="<?= getColorForClass($data, 'Wizard') ?>">
+                        Wizard<?= getBadgeForClass($data, 'Wizard') ?></td>
                     <td class="<?= getColorForClass($data, 'Sage') ?>">Sage<?= getBadgeForClass($data, 'Sage') ?></td>
-                    <td class="<?= getColorForClass($data, 'Assassin') ?>">Assassin<?= getBadgeForClass($data, 'Assassin') ?></td>
-                    <td class="<?= getColorForClass($data, 'Stalker') ?>">Stalker<?= getBadgeForClass($data, 'Stalker') ?></td>
-                    <td class="<?= getColorForClass($data, 'Witcher') ?>">Witcher<?= getBadgeForClass($data, 'Witcher') ?></td>
+                    <td class="<?= getColorForClass($data, 'Assassin') ?>">
+                        Assassin<?= getBadgeForClass($data, 'Assassin') ?></td>
+                    <td class="<?= getColorForClass($data, 'Stalker') ?>">
+                        Stalker<?= getBadgeForClass($data, 'Stalker') ?></td>
+                    <td class="<?= getColorForClass($data, 'Witcher') ?>">
+                        Witcher<?= getBadgeForClass($data, 'Witcher') ?></td>
                     <td class="<?= getColorForClass($data, 'Inquisitor') ?>">
                         Inquisitor<?= getBadgeForClass($data, 'Inquisitor') ?></td>
-                    <td class="<?= getColorForClass($data, 'Shaman') ?>">Shaman<?= getBadgeForClass($data, 'Shaman') ?></td>
+                    <td class="<?= getColorForClass($data, 'Shaman') ?>">
+                        Shaman<?= getBadgeForClass($data, 'Shaman') ?></td>
                     <td class="<?= getColorForClass($data, 'Shapeshifter') ?>">
                         Shapeshifter<?= getBadgeForClass($data, 'Shapeshifter') ?></td>
-                    <td class="<?= getColorForClass($data, 'Priest') ?>">Priest<?= getBadgeForClass($data, 'Priest') ?></td>
+                    <td class="<?= getColorForClass($data, 'Priest') ?>">
+                        Priest<?= getBadgeForClass($data, 'Priest') ?></td>
                     <td class="<?= getColorForClass($data, 'Matriarch') ?>">
                         Matriarch<?= getBadgeForClass($data, 'Matriarch') ?></td>
-                    <td class="<?= getColorForClass($data, 'Marksman') ?>">Marksman<?= getBadgeForClass($data, 'Marksman') ?></td>
-                    <td class="<?= getColorForClass($data, 'Tracker') ?>">Tracker<?= getBadgeForClass($data, 'Tracker') ?></td>
+                    <td class="<?= getColorForClass($data, 'Marksman') ?>">
+                        Marksman<?= getBadgeForClass($data, 'Marksman') ?></td>
+                    <td class="<?= getColorForClass($data, 'Tracker') ?>">
+                        Tracker<?= getBadgeForClass($data, 'Tracker') ?></td>
                     <td class="<?= getColorForClass($data, 'High Templar') ?>">High
                         Templar<?= getBadgeForClass($data, 'High Templar') ?></td>
                     <td class="<?= getColorForClass($data, 'Dark Templar') ?>">Dark
                         Templar<?= getBadgeForClass($data, 'Dark Templar') ?></td>
                 </tr>
                 <tr>
-                    <td class="<?= getColorForClass($data, 'Avenger') ?>">Avenger<?= getBadgeForClass($data, 'Avenger') ?></td>
-                    <td class="<?= getColorForClass($data, 'Champion') ?>">Champion<?= getBadgeForClass($data, 'Champion') ?></td>
+                    <td class="<?= getColorForClass($data, 'Avenger') ?>">
+                        Avenger<?= getBadgeForClass($data, 'Avenger') ?></td>
+                    <td class="<?= getColorForClass($data, 'Champion') ?>">
+                        Champion<?= getBadgeForClass($data, 'Champion') ?></td>
                     <td class="<?= getColorForClass($data, 'White Wizard') ?>">White
                         Wizard<?= getBadgeForClass($data, 'White Wizard') ?></td>
-                    <td class="<?= getColorForClass($data, 'ArchSage') ?>">ArchSage<?= getBadgeForClass($data, 'ArchSage') ?></td>
+                    <td class="<?= getColorForClass($data, 'ArchSage') ?>">
+                        ArchSage<?= getBadgeForClass($data, 'ArchSage') ?></td>
                     <td class="<?= getColorForClass($data, 'Phantom Assassin') ?>">Phantom
                         Assassin<?= getBadgeForClass($data, 'Phantom Assassin') ?></td>
                     <td class="<?= getColorForClass($data, 'Master Stalker') ?>">Master
@@ -321,14 +327,16 @@ foreach ($data as $k => $d) {
                         Witcher<?= getBadgeForClass($data, 'Professional Witcher') ?></td>
                     <td class="<?= getColorForClass($data, 'Grand Inquisitor') ?>">Grand
                         Inquisitor<?= getBadgeForClass($data, 'Grand Inquisitor') ?></td>
-                    <td class="<?= getColorForClass($data, 'Summoner') ?>">Summoner<?= getBadgeForClass($data, 'Summoner') ?></td>
+                    <td class="<?= getColorForClass($data, 'Summoner') ?>">
+                        Summoner<?= getBadgeForClass($data, 'Summoner') ?></td>
                     <td class="<?= getColorForClass($data, 'RuneMaster') ?>">
                         RuneMaster<?= getBadgeForClass($data, 'RuneMaster') ?></td>
                     <td class="<?= getColorForClass($data, 'Hierophant') ?>">
                         Hierophant<?= getBadgeForClass($data, 'Hierophant') ?></td>
                     <td class="<?= getColorForClass($data, 'Prophetess') ?>">
                         Prophetess<?= getBadgeForClass($data, 'Prophetess') ?></td>
-                    <td class="<?= getColorForClass($data, 'Sniper') ?>">Sniper<?= getBadgeForClass($data, 'Sniper') ?></td>
+                    <td class="<?= getColorForClass($data, 'Sniper') ?>">
+                        Sniper<?= getBadgeForClass($data, 'Sniper') ?></td>
                     <td class="<?= getColorForClass($data, 'Monster Hunter') ?>">Monster
                         Hunter<?= getBadgeForClass($data, 'Monster Hunter') ?></td>
                     <td class="<?= getColorForClass($data, 'Grand Templar') ?>">Grand
@@ -387,10 +395,12 @@ foreach ($data as $k => $d) {
                                         </div>
                                     </td>
                                 <?php endforeach; ?>
-                                <td style="width: 40px;"><input name="load" type="text" value="<?= $c['load'] ?>" style="width: 40px;!important"
-                                           onclick="this.select()"></td>
-                                <td style="width: 40px;"><input name="load2" type="text" value="<?= $c['load2'] ?>" style="width: 50px;!important"
-                                           onclick="this.select()"></td>
+                                <td style="width: 40px;"><input name="load" type="text" value="<?= $c['load'] ?>"
+                                                                style="width: 40px;!important"
+                                                                onclick="this.select()"></td>
+                                <td style="width: 40px;"><input name="load2" type="text" value="<?= $c['load2'] ?>"
+                                                                style="width: 50px;!important"
+                                                                onclick="this.select()"></td>
                             </tr>
                         <?php endforeach; ?>
                     </table>

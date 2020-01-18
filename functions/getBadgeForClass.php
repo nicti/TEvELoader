@@ -22,6 +22,10 @@ if ( ! function_exists('getBadgeForClass'))
                 $godly = '<span class="badge badge-secondary">Godly</span>';;
             }
         }
-        return '<br><span class="badge badge-secondary">'.$check['lvl'].'</span>'.$insp.$godly;
+        $color = '';
+        if ($check['lvl'] === 300) {
+            $color = ' style="background-color: lightcoral;" ';
+        }
+        return '<br><span class="badge badge-secondary" '.$color.'>'.$check['lvl'].'</span>'.$insp.$godly;
     }
 }
